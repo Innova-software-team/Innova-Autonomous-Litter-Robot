@@ -1,7 +1,7 @@
 # Getting started
 ## Setting up a local VM
 If you have a decent computer, and you'd prefer to have things stored locally, you can set up the VM on your computer.
- - First download any virtual machine software, such as VirtualBox, and create a new virtual machine by mounting the image we provide [here] ("https://storage.cloud.google.com/amaso-bucket-0/robotics-development-vm-v1.vmdk")
+ - First download any virtual machine software, such as VirtualBox, and create a new virtual machine by mounting the image we provide [here](https://storage.cloud.google.com/amaso-bucket-0/robotics-development-vm-v1.vmdk)
  - If you don't know how to do this, you should be able to find a tutorial for using a vmdk file with whatever software you're using.
  - If you choose this approach, you don't need to do the rest of the setup.
 
