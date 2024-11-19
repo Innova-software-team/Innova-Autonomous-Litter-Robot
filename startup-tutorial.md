@@ -42,7 +42,7 @@ If you have a decent computer, and you'd prefer to have things stored locally, y
 
 ### Setting up chrome remote desktop for access to GUI. 
  - In order to access the desktop environment with GUI from any computer, you must link your google account and start the chrome remote desktop service.
- - [remote desktop setup]("https://remotedesktop.google.com/headless")
+ - [remote desktop setup](https://remotedesktop.google.com/headless)
  - Click a few buttons, then you should see 3 commands. Copy the one for Debian Linux, and paste it into the terminal which should currently be connected to the VM via ssh.
  - The command should look similar to: ```DISPLAY= /opt/google/chrome-remote-desktop/start-host --code="_____" --redirect-url="https://remotedesktop.google.com/_/oauthredirect" --name=$(hostname)```
  - After running the command, if all went well, you should be able to [access the VM]("https://remotedesktop.google.com/access")
