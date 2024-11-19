@@ -1,9 +1,8 @@
 {
-  "name": "demo-repo",
-  "version": "0.2.0",
-  "description": "A sample package.json",
+  "name": "Litter Collecting Robot",
+  "version": "0.1.0",
+  "description": "Litter Collecting Robot",
   "dependencies": {
-    "@primer/css": "17.0.1"
   },
   "license": "MIT"
 }
