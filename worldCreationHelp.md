@@ -1,5 +1,12 @@
 Creating a realistic university campus environment in Gazebo Ignition can be done effectively even without expertise in CAD. Here's a step-by-step approach:
 
+## Requirements
+- Environment *must* look realistic (since using computer vision)
+- Simulation environment *must* be representative of the environment the robot will be operating in: where exactly will our robot operate? What obstacles must we ensure we include?
+- Virtual robot *must* have sensors with a similar perspective to that of the real life robot
+- Multiple different virtual robot model sensor setups should exist: allows us to test different sensor types and choose based on effectiveness and cost.
+- Environment should not be too heavy to render; must be well optimised.
+- **Can we think of anything else to add here?**
 
 ---
 
